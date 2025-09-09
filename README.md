@@ -10,14 +10,6 @@ A machine learning project to classify network traffic as either benign or ranso
 
 ---
 
-### 🎥 Project Demo
-
-Here is a quick demo of the model in action.
-
-![Project Demo](https://placehold.co/800x450/3498db/ffffff?text=Add+your+GIF+or+Screenshot+here)
-
----
-
 ### 📋 Table of Contents
 
 - [✨ Features](#-features)
